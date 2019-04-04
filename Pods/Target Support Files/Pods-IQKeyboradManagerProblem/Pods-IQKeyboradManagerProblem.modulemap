@@ -1,0 +1,6 @@
+framework module Pods_IQKeyboradManagerProblem {
+  umbrella header "Pods-IQKeyboradManagerProblem-umbrella.h"
+
+  export *
+  module * { export * }
+}
